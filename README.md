@@ -1,5 +1,5 @@
 # IVT Spaceship
-olvass el!
+ne olvass el, de tényleg!
 This is a sample application for the [Integration and Verification Techniques](http://www.mit.bme.hu/oktatas/targyak/vimiac04) course at BME MIT. The application is simplified and deliberately contains bugs.
 
 ## Getting started
